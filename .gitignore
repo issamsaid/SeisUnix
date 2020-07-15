@@ -1,6 +1,6 @@
 etc
-lib
-bin/*
+/lib
+/bin
 prop
 INSTALL
 Idle
@@ -13,7 +13,5 @@ LICENCE*ACCEPTED
 MAILHOME*
 sac
 *.o
-
 *.a
-
 junk*
